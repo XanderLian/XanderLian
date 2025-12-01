@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1>Hey There! <strong>I'm Xander L. Ycong</strong></h1>
 
-<!--
-**XanderLian/XanderLian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>📚Education</h2>
+<ul>
+  <li>Bachelor of Science in Information Technology</li>
+  <li>2024 - Current</li>
+</ul>
 
-Here are some ideas to get you started:
+<h2>Certifications</h2>
+<ul>
+  <li>  
+    <a href="https://courses.cognitiveclass.ai/certificates/a5674f85f4d749e19130d6425539f181">SQL and Relational Databases 101</a>
+  </li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍💻Skillsets</h2>
+<ul>
+  <li>UI/UX Design</li>
+  <li>HTML, CSS</li>
+</ul>
