@@ -20,4 +20,6 @@
 <ul>
   <li>UI/UX Design</li>
   <li>HTML, CSS</li>
+  <li>SQL</li>
+
 </ul>
