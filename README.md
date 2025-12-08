@@ -11,6 +11,9 @@
   <li>  
     <a href="https://courses.cognitiveclass.ai/certificates/a5674f85f4d749e19130d6425539f181">SQL and Relational Databases 101</a>
   </li>
+   <li>  
+    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C059E9D4205781D131CE32991D4C2EBBDA70DA65B23AC51BFA9AB5C2FFBA0EF7">OCI Foundations Associate (2025) </a>
+  </li>
 </ul>
 
 <h2>👨‍💻Skillsets</h2>
