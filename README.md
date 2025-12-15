@@ -14,6 +14,9 @@
    <li>  
     <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C059E9D4205781D131CE32991D4C2EBBDA70DA65B23AC51BFA9AB5C2FFBA0EF7">OCI Foundations Associate (2025) </a>
   </li>
+  <li>  
+    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D4FCC47C67F05F658B5AE9651261BECA5EDFEE09DCEA88F35C5383F8F706ECFD">Oracle Data Platform (2025) </a>
+  </li>
 </ul>
 
 <h2>👨‍💻Skillsets</h2>
